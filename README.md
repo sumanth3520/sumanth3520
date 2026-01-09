@@ -10,7 +10,17 @@
 
 ## 🧠 SYSTEM INITIALIZATION
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF00&background=000000&width=900&lines=%24+whoami;Graduate+Student+%7C+Cybersecurity+%26+Privacy;%24+status;Actively+seeking+full-time+roles;%24+location;United+States;%24+clearance;Public+Profile" />
+<img src="https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&size=14
+&pause=1000
+&color=00FF00
+&center=true
+&vCenter=true
+&width=900
+&lines=%24+loading+stack%3A+Python+%7C+SQL+%7C+C+%7C+C%2B%2B+%7C+Linux+%7C+Unix+%7C+Windows+%7C+Wireshark+%7C+Scapy+%7C+Hyperledger+%7C+Pentesting+%7C+Incident+Response"
+ />
+
 
 ---
 
